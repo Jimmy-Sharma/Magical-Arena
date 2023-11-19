@@ -9,12 +9,12 @@ Magical Arena is a Dice Gmae with two player. Every Player is defined by a “he
 
 3.Assume two players . Player A 50 health 5 strength 10 attack Player B 100 health 10 stregnth and 5 attack . Attacking die and Defending die are both 6 sided die with values ranging from 1- 6
 
-  i.Player A attacks and rolls die. Die roll : 5 . Player B defends and rolls die. Die roll 2
+    i.Player A attacks and rolls die. Die roll : 5 . Player B defends and rolls die. Die roll 2
 
-  ii.Attack damage is 5 * 10 = 50 ; Defending strength = 10 * 2 = 20 ; Player B health reduced by 30 to 70
+    ii.Attack damage is 5 * 10 = 50 ; Defending strength = 10 * 2 = 20 ; Player B health reduced by 30 to 70
 
-  iii.Player B attacks and rolls die. Die roll : 4. Player A defends and rolls die. Die Roll 3
+    iii.Player B attacks and rolls die. Die roll : 4. Player A defends and rolls die. Die Roll 3
 
-  iv.Attack damage is 4 * 5 = 20 ; Defending strength = 5 * 3 = 15 ; Player A health reduced by 5 to 45
+    iv.Attack damage is 4 * 5 = 20 ; Defending strength = 5 * 3 = 15 ; Player A health reduced by 5 to 45
 
-  v.And so on
+    v.And so on
