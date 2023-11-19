@@ -1,0 +1,25 @@
+{
+  "name": "magicalarena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmy-Sharma/Magical-Arena.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimmy-Sharma/Magical-Arena/issues"
+  },
+  "homepage": "https://github.com/Jimmy-Sharma/Magical-Arena#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1"
+  }
+}
